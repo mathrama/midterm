@@ -12,6 +12,7 @@ import java.util.Scanner;
  * change the code to use enum instead String and add object oriented principles satisfy as comment in the code
  * @author sivagamasrinivasan
  * date 02/19
+ * @ramanpreet matharu
  */
 public class ArithmeticBase 
 {
